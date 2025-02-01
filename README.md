@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @lakshangan<br>- 👀 I’m interested in Blockchain and ios development<br>- 🌱 I’m currently learning web development<br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...
+- 👋 Hi, I’m @lakshangan<br>- 👀 I’m interested in Blockchain and ios development<br>- 🌱 I’m currently learning uniswap v3 and hooks <br>- 💞️ I’m looking to collaborate on ...<br>- 📫 How to reach me ...
 
 
 ## 🌐 Socials:
